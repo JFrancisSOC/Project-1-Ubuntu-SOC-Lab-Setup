@@ -46,6 +46,10 @@ Set up a Linux virtual machine using VirtualBox and Ubuntu Desktop to create a s
 * Updating a Linux operating system
 * Documenting technical work
 
+ ## Reflection
+
+This project gave me hands-on experience creating and configuring a Linux virtual machine using VirtualBox. I learned how to troubleshoot virtualization issues, install Ubuntu, update the operating system using the APT package manager, and document my work. This lab provides the foundation for future Linux administration and SOC analyst exercises.
+
 ## Next Steps
 
 * Learn Linux file navigation
