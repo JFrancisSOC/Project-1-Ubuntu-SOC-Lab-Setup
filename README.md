@@ -41,7 +41,8 @@ Basic Linux terminal usage
 Updating a Linux system
 Working with VirtualBox
 Documenting technical work
-
 Create and manage users.
+
+
 Explore Linux permissions.
 Begin log analysis.
