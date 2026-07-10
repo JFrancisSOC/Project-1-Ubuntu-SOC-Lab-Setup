@@ -1,48 +1,55 @@
-Objective
+# Ubuntu SOC Lab Setup
+
+## Objective
 
 Set up a Linux virtual machine using VirtualBox and Ubuntu Desktop to create a safe environment for learning Linux and cybersecurity fundamentals.
 
-Tools Used
+## Tools Used
 
-VirtualBox
-Ubuntu Desktop LTS
-Windows 11
+* VirtualBox
+* Ubuntu Desktop LTS
+* Windows 11
 
-Steps Performed
+## Steps Performed
 
-Installed VirtualBox.
-Downloaded Ubuntu Desktop LTS.
-Created a virtual machine named Ubuntu-SOC-Lab.
-Allocated 4096 MB RAM, 2 CPUs, and a 40 GB virtual disk.
-Enabled Intel Virtualization Technology (VT-x) in the BIOS.
-Installed Ubuntu.
-Created a user account.
-Logged into Ubuntu.
-Opened the terminal.
+1. Installed VirtualBox.
+2. Downloaded Ubuntu Desktop LTS.
+3. Created a virtual machine named **Ubuntu-SOC-Lab**.
+4. Allocated 4096 MB RAM, 2 CPUs, and a 40 GB virtual disk.
+5. Enabled Intel Virtualization Technology in the BIOS.
+6. Installed Ubuntu.
+7. Created a local user account.
+8. Logged into Ubuntu and opened the terminal.
+9. Updated the operating system.
+10. Verified the updates completed successfully.
+11. Captured screenshots for documentation.
 
-Ran:
+## Commands Used
+
+
 sudo apt update
 sudo apt upgrade
 sudo apt autoremove
 
-Verified the system was updated successfully.
-Captured screenshots for documentation.
 
-Screenshots
-Ubuntu Desktop
-Ubuntu System Information
-Terminal Commands
-VirtualBox VM
+## Screenshots
 
-Skills Learned
+* Ubuntu desktop
+* Ubuntu system information
+* Linux command notes
+* Ubuntu system details
 
-Installing Ubuntu in a virtual machine
-Basic Linux terminal usage
-Updating a Linux system
-Working with VirtualBox
-Documenting technical work
-Create and manage users.
+## Skills Learned
 
+* Installing Ubuntu in a virtual machine
+* Configuring VirtualBox
+* Using basic Linux terminal commands
+* Updating a Linux operating system
+* Documenting technical work
 
-Explore Linux permissions.
-Begin log analysis.
+## Next Steps
+
+* Learn Linux file navigation
+* Create and manage users
+* Explore Linux permissions
+* Begin log analysis
