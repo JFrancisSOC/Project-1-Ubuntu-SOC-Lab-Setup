@@ -26,10 +26,9 @@ Set up a Linux virtual machine using VirtualBox and Ubuntu Desktop to create a s
 
 ## Commands Used
 
-
-sudo apt update
-sudo apt upgrade
-sudo apt autoremove
+sudo apt update.
+sudo apt upgrade.
+sudo apt autoremove.
 
 
 ## Screenshots
