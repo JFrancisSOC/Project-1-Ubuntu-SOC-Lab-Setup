@@ -1,53 +1,80 @@
-# Ubuntu SOC Lab Setup
+# Project 1 – Ubuntu SOC Lab Setup
 
 ## Objective
 
-Set up a Linux virtual machine using VirtualBox and Ubuntu Desktop to create a safe environment for learning Linux and cybersecurity fundamentals.
+* Build a functional Ubuntu virtual machine environment to serve as the foundation for future Security Operations Center (SOC) analyst labs.
+* Configure the system, verify virtualization, and prepare the environment for Linux-based cybersecurity projects.
 
-## Tools Used
+---
 
-* VirtualBox
+## Environment
+
+* Windows 11 Host
+* Oracle VirtualBox
 * Ubuntu Desktop LTS
-* Windows 11
+* Bash Terminal
 
-## Steps Performed
+---
 
-1. Installed VirtualBox.
-2. Downloaded Ubuntu Desktop LTS.
-3. Created a virtual machine named **Ubuntu-SOC-Lab**.
-4. Allocated 4096 MB RAM, 2 CPUs, and a 40 GB virtual disk.
-5. Enabled Intel Virtualization Technology in the BIOS.
-6. Installed Ubuntu.
-7. Created a local user account.
-8. Logged into Ubuntu and opened the terminal.
-9. Updated the operating system.
-10. Verified the updates completed successfully.
-11. Captured screenshots for documentation.
+## Skills Practiced
 
-## Commands Used
+* Installing Oracle VirtualBox
+* Creating an Ubuntu virtual machine
+* Configuring virtualization settings
+* Installing Ubuntu Desktop
+* Updating the operating system
+* Navigating the Ubuntu desktop environment
+* Verifying system functionality
+* Preparing a cybersecurity lab environment
 
-* Sudo apt update.
-* Sudo apt upgrade.
-* Sudo apt autoremove.
+---
 
+## Linux Commands Used
+
+| Command               | Purpose                             |
+| --------------------- | ----------------------------------- |
+| `sudo apt update`     | Refresh the Ubuntu package list     |
+| `sudo apt upgrade`    | Install the latest software updates |
+| `sudo apt autoremove` | Remove unnecessary packages         |
+
+---
+
+## Lab Activities
+
+* Installed Oracle VirtualBox.
+* Downloaded and installed Ubuntu Desktop LTS.
+* Created and configured a new Ubuntu virtual machine.
+* Enabled virtualization within the system BIOS when necessary.
+* Installed Ubuntu and completed the initial operating system configuration.
+* Updated Ubuntu using the APT package manager.
+* Verified that the virtual machine was functioning correctly.
+* Prepared the environment for future SOC analyst projects.
+
+---
 
 ## Screenshots
 
-* Ubuntu desktop
-* Ubuntu system information
-* Linux command notes
-* Ubuntu system details
+* P1 01 Oracle VirtualBox Installation
+* P1 02 Ubuntu ISO Download
+* P1 03 Virtual Machine Configuration
+* P1 04 Ubuntu Installation
+* P1 05 Ubuntu Desktop First Boot
+* P1 06 System Update
+* P1 07 Ubuntu Desktop Ready
 
-## Skills Learned
+---
 
-* Installing Ubuntu in a virtual machine
-* Configuring VirtualBox
-* Using basic Linux terminal commands
-* Updating a Linux operating system
-* Documenting technical work
+## Lessons Learned
 
- ## Reflection
+* I learned how to build and configure a Linux virtual machine from the ground up.
+* I became familiar with the Ubuntu desktop environment and basic system administration tasks.
+* I learned how to update Linux using the APT package manager and prepare a secure environment for cybersecurity labs.
+* I also gained experience troubleshooting virtualization issues during the installation process.
 
-This project gave me hands-on experience creating and configuring a Linux virtual machine using VirtualBox. I learned how to troubleshoot virtualization issues, install Ubuntu, update the operating system using the APT package manager, and document my work. This lab provides the foundation for future Linux administration and SOC analyst exercises.
+---
 
+## SOC Analyst Takeaways
 
+* Building a personal lab environment is an essential first step for developing hands-on cybersecurity skills.
+* Understanding how Linux systems are installed and maintained provides a strong foundation for future SOC analyst responsibilities.
+* Maintaining an updated operating system helps improve system stability and security before conducting investigations or installing additional security tools.
