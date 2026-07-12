@@ -53,6 +53,17 @@
 
 ## Screenshots
 
+### 01 – Linux Command Notes
+![Linux Command Notes](01 Linux Command Notes.png)
+
+### 02 – Linux System Info
+![Linux System Info](02 Linux System Info.png)
+
+### 03 – Ubuntu Main Screen
+![Ubuntu Main Screen](03 Ubuntu Main Screen.png)
+
+### 04 – Ubuntu System Details
+![Ubuntu System Details](04 Ubuntu System Details.png)
 
 
 ---
