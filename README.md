@@ -54,7 +54,7 @@
 ## Screenshots
 
 ### 01 – Linux Command Notes
-Screenshots\Project 1 Ubuntu Setup\01 Linux Command Notes.png
+01 Linux Command Notes.png
 
 ### 02 – Linux Setup Info
 ![Linux Setup Info](screenshots/Project 1 Ubuntu Setup/02 Linux Setup Info.png)
