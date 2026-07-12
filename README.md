@@ -2,54 +2,54 @@
 
 ## Objective
 
-* Build an Ubuntu virtual machine that will be used throughout future SOC analyst projects.
-* Configure the environment, verify virtualization, and prepare a Linux lab for hands-on cybersecurity practice.
+- Build an Ubuntu virtual machine to serve as a lab for future SOC analyst projects.
+- Configure the environment and prepare it for hands-on cybersecurity practice.
 
 ---
 
 ## Environment
 
-* Windows 11 Host
-* Oracle VirtualBox
-* Ubuntu Desktop LTS
-* Bash Terminal
+- Windows 11 Host
+- Oracle VirtualBox
+- Ubuntu Desktop LTS
+- Bash Terminal
 
 ---
 
 ## Skills Practiced
 
-* Installing Oracle VirtualBox
-* Creating an Ubuntu virtual machine
-* Configuring virtualization settings
-* Installing Ubuntu Desktop
-* Updating the operating system
-* Navigating the Ubuntu desktop environment
-* Verifying system functionality
-* Preparing a cybersecurity lab environment
+- Installing and configuring VirtualBox
+- Creating a virtual machine
+- Installing Ubuntu
+- Updating a Linux system
+- Navigating the Ubuntu interface
+- Preparing a lab environment for SOC work
 
 ---
 
 ## Linux Commands Used
 
-| Command               | Purpose                             |
-| --------------------- | ----------------------------------- |
-| `sudo apt update`     | Refresh the Ubuntu package list     |
-| `sudo apt upgrade`    | Install the latest software updates |
-| `sudo apt autoremove` | Remove unnecessary packages         |
+| Command               | Purpose                              |
+|-----------------------|--------------------------------------|
+| `sudo apt update`     | Refresh package list                 |
+| `sudo apt upgrade`    | Install system updates               |
+| `ls`                  | List directory contents              |
+| `pwd`                 | Show current directory path          |
 
 ---
 
 ## Lab Activities
 
-* Installed Oracle VirtualBox.
-* Downloaded the Ubuntu Desktop LTS ISO.
-* Created and configured a new Ubuntu virtual machine.
-* Installed Ubuntu and completed the initial setup.
-* Updated the operating system using the APT package manager.
-* Verified that the virtual machine was working properly.
-* Prepared the environment for future SOC analyst labs.
+- Installed VirtualBox on the host machine.
+- Downloaded the Ubuntu Desktop LTS ISO.
+- Created and configured an Ubuntu virtual machine.
+- Installed and set up Ubuntu.
+- Updated the system to ensure it was current.
+- Confirmed system details and basic navigation.
+- Prepared the environment for future security projects.
 
 ---
+
 ## Screenshots
 
 ### 01 – Linux Command Notes
@@ -64,21 +64,19 @@
 ### 04 – Ubuntu System Details
 ![Ubuntu System Details](04%20Ubuntu%20System%20Details.png)
 
-
-
 ---
 
 ## Lessons Learned
 
-* I learned how to build and configure a Linux virtual machine from scratch.
-* I became more comfortable navigating the Ubuntu desktop and using basic Linux administration commands.
-* I learned why keeping a system updated is an important first step before installing security tools or beginning an investigation.
-* Troubleshooting virtualization issues gave me a better understanding of how the lab environment works.
+- I got hands-on experience setting up a virtual machine from scratch.
+- I learned how to navigate Ubuntu and confirm system details using commands.
+- Keeping my system updated is a key habit before diving into security work.
+- Troubleshooting the setup process helped me understand how the environment works.
 
 ---
 
 ## SOC Analyst Takeaways
 
-* A reliable lab environment is the foundation for building hands-on cybersecurity skills.
-* Understanding how Linux systems are installed and maintained makes it easier to investigate and troubleshoot them later.
-* Keeping systems updated helps improve security and stability before collecting logs or installing additional tools.
+- Building a lab environment gives me a safe space to practice security analysis.
+- Knowing how to set up and maintain Linux systems is crucial for investigations.
+- Staying on top of system updates keeps everything stable and secure before any security tools are used.
