@@ -53,17 +53,7 @@
 
 ## Screenshots
 
-### 01 – Linux Command Notes
-01 Linux Command Notes.png
 
-### 02 – Linux Setup Info
-![Linux Setup Info](screenshots/Project 1 Ubuntu Setup/02 Linux Setup Info.png)
-
-### 03 – Ubuntu Main Screen
-![Ubuntu Main Screen](screenshots/Project 1 Ubuntu Setup/03 Ubuntu Main Screen.png)
-
-### 04 – Ubuntu System Details
-![Ubuntu System Details](screenshots/Project 1 Ubuntu Setup/04 Ubuntu System Details.png)
 
 ---
 
