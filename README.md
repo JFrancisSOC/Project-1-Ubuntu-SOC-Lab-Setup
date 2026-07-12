@@ -50,20 +50,20 @@
 * Prepared the environment for future SOC analyst labs.
 
 ---
-
 ## Screenshots
 
 ### 01 – Linux Command Notes
-![Linux Command Notes](01 Linux Command Notes.png)
+![Linux Command Notes](01%20Linux%20Command%20Notes.png)
 
 ### 02 – Linux System Info
-![Linux System Info](02 Linux System Info.png)
+![Linux System Info](02%20Linux%20System%20Info.png)
 
 ### 03 – Ubuntu Main Screen
-![Ubuntu Main Screen](03 Ubuntu Main Screen.png)
+![Ubuntu Main Screen](03%20Ubuntu%20Main%20Screen.png)
 
 ### 04 – Ubuntu System Details
-![Ubuntu System Details](04 Ubuntu System Details.png)
+![Ubuntu System Details](04%20Ubuntu%20System%20Details.png)
+
 
 
 ---
